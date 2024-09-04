@@ -4,7 +4,7 @@ I mostly create projects that revolve around [Discord.py](https://github.com/Rap
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King0fBrains&show_icons=true&layout=compact&theme=dark&count_private=true" width="512" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscarfo11&show_icons=true&layout=compact&theme=dark&count_private=true" width="512" />
     </a>
 <br/>
 <p>
